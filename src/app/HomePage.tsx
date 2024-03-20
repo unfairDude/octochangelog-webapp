@@ -47,12 +47,17 @@ const MainSection = () => (
 			>
 				{BRIEF_DESCRIPTION}.
 			</Heading>
-			<Flex justify="center" align="center">
+			<Flex justify="space-between" align="center">
 				<NextLink href="https://google.com" passHref legacyBehavior>
 					<Button as="a" variant="cta">
 						Try me now!
 					</Button>
 				</NextLink>
+				<NextLink href="https://google.com" passHref legacyBehavior>
+				    <Button as="b" variant="cta">
+						Try me now!
+					</Button>
+			    </NextLink>
 			</Flex>
 		</Stack>
 		<Center width="full">
