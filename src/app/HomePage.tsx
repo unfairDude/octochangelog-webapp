@@ -54,6 +54,13 @@ const MainSection = () => (
 					</Button>
 				</NextLink>
 			</Flex>
+			<Flex justify="center" align="center">
+				<NextLink href="https://facebook.com" passHref legacyBehavior>
+					<Button as="b" variant="cta">
+						Try me now!
+					</Button>
+				</NextLink>
+			</Flex>
 		</Stack>
 		<Center width="full">
 			<Image src={mascotIcon} alt="" quality={100} priority />
