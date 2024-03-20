@@ -12,9 +12,6 @@ import {
 } from '@chakra-ui/react'
 import Image from 'next/image'
 import * as React from 'react'
-import { DiGithubBadge } from 'react-icons/di'
-
-import { REPO_URL } from '@/common'
 import { Link as RouteLink } from '@/components/ChakraNextLink'
 import ToggleColorModeButton from '@/components/ToggleColorModeButton'
 import mascotIcon from '@/public/mascot-icon.png'
@@ -78,21 +75,9 @@ const Header = (props: BoxProps) => {
 								minWidth={LOGO_SIZES}
 							/>
 						)}
-						<Link
-							href={REPO_URL}
-							aria-label="Octochangelog repository on GitHub"
-							isExternal
-							rounded="full"
-							boxSize={LOGO_SIZES}
-							_hover={{ bgColor: 'monochromeInverted4' }}
-							_active={{ bgColor: 'monochromeInverted5' }}
-						>
-							<Icon
-								as={DiGithubBadge}
-								boxSize={LOGO_SIZES}
-								color="monochrome1"
-							/>
-						</Link>
+						
+						
+						
 					</HStack>
 				</Flex>
 			</Container>

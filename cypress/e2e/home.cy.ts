@@ -49,7 +49,6 @@ it('should display corresponding information', () => {
 	)
 
 
-
 	// we first query the link
 	cy.findByRole('link', { name: /powered by vercel/i })
 		// and check it has the proper href

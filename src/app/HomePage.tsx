@@ -48,7 +48,7 @@ const MainSection = () => (
 				{BRIEF_DESCRIPTION}.
 			</Heading>
 			<Flex justify="center" align="center">
-				<NextLink href="/compare" passHref legacyBehavior>
+				<NextLink href="https://google.com" passHref legacyBehavior>
 					<Button as="a" variant="cta">
 						Try me now!
 					</Button>

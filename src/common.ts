@@ -1,6 +1,4 @@
-const REPO_URL = 'https://github.com/octochangelog/octochangelog-webapp'
-
-const SITE_TITLE = 'Octochangelog'
+const SITE_TITLE = 'Stickman Coin'
 
 const BRIEF_DESCRIPTION = 'Compare GitHub changelogs in a single view'
 
@@ -14,7 +12,6 @@ const HIGH_PRIORITY_GROUP_TITLES = ['breaking changes', 'features', 'bug fixes']
 const LOW_PRIORITY_GROUP_TITLES = ['others', 'credits', 'thanks', 'artifacts']
 
 export {
-	REPO_URL,
 	SITE_TITLE,
 	BRIEF_DESCRIPTION,
 	FULL_DESCRIPTION,
