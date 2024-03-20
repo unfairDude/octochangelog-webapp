@@ -52,6 +52,7 @@ const MainSection = () => (
 					<Button as="a" variant="cta">
 						Try me now!
 					</Button>
+					&nbsp;
 				</NextLink>
 				<NextLink href="https://google.com" passHref legacyBehavior>
 			        <Button as="b" variant="cta">
