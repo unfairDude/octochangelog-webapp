@@ -51,10 +51,10 @@ const MainSection = () => (
 				<NextLink href="https://google.com" passHref legacyBehavior>
 					<Button as="a" variant="cta">
 						Try me now!
-					</Button>{' '}
+					</Button>
 				</NextLink>
 				<NextLink href="https://google.com" passHref legacyBehavior>
-			   {' '}<Button as="b" variant="cta">
+			        <Button as="b" variant="cta">
 						Try me now!
 					</Button>
 			    </NextLink>
