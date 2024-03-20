@@ -56,7 +56,7 @@ const MainSection = () => (
 			</Flex>
 			<Flex justify="center" align="center">
 				<NextLink href="https://facebook.com" passHref legacyBehavior>
-					<Button as="a" variant="cta">
+					<Button as="b" variant="cta">
 						Try me now!
 					</Button>
 				</NextLink>
