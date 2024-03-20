@@ -66,7 +66,7 @@ const Header = (props: BoxProps) => {
 									fontWeight="black"
 									fontSize={{ base: '16px', md: '36px' }}
 								>
-									Octochangelog
+									$STICKMAN
 								</Heading>
 							</HStack>
 						</RouteLink>
