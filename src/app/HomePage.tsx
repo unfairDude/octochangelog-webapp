@@ -52,9 +52,6 @@ const MainSection = () => (
 					<Button as="a" variant="cta">
 						Try me now!
 					</Button>
-					<Button as="a" variant="cta">
-						Try me now!
-					</Button>
 				</NextLink>
 			</Flex>
 				</NextLink>
