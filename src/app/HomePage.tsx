@@ -54,8 +54,6 @@ const MainSection = () => (
 					</Button>
 				</NextLink>
 			</Flex>
-				</NextLink>
-			</Flex>
 		</Stack>
 		<Center width="full">
 			<Image src={mascotIcon} alt="" quality={100} priority />
