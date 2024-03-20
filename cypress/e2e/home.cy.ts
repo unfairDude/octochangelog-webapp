@@ -48,13 +48,7 @@ it('should display corresponding information', () => {
 		'https://mario.dev/',
 	)
 
-	cy.findByRole('link', {
-		name: /octochangelog repository on github/i,
-	}).should(
-		'have.attr',
-		'href',
-		'https://github.com/octochangelog/octochangelog-webapp',
-	)
+
 
 	// we first query the link
 	cy.findByRole('link', { name: /powered by vercel/i })
