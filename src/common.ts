@@ -1,6 +1,6 @@
-const SITE_TITLE = 'Stickman Coin'
+const SITE_TITLE = '$STICKMAN'
 
-const BRIEF_DESCRIPTION = 'Compare GitHub changelogs in a single view'
+const BRIEF_DESCRIPTION = 'The father of all memes. <br> giu'
 
 const FULL_DESCRIPTION =
 	'Compare GitHub changelogs across multiple releases in a single view'
