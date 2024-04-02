@@ -1,6 +1,6 @@
 const SITE_TITLE = '$STICKMAN'
 
-const BRIEF_DESCRIPTION = 'The father of all memes.\n \n We are coming.\n We are Stickman.'
+const BRIEF_DESCRIPTION = 'The father of all memes.\n \n We are coming. \n We are Stickman.'
 
 const FULL_DESCRIPTION =
 	'Compare GitHub changelogs across multiple releases in a single view'
