@@ -50,12 +50,12 @@ const MainSection = () => (
 			<Flex justify="space-between" align="center">
 				<NextLink href="https://google.com" passHref legacyBehavior>
 					<Button as="a" variant="cta">
-						Try me now!
+						PRE-SALE
 					</Button>	
 				</NextLink>
 				<NextLink href="https://google.com" passHref legacyBehavior>
 			        <Button as="b" variant="cta">
-						Try me now!
+						TELEGRAM
 					</Button>
 			    </NextLink>
 			</Flex>
