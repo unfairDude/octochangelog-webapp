@@ -48,12 +48,12 @@ const MainSection = () => (
 				{BRIEF_DESCRIPTION}.
 			</Heading>
 			<Flex justify="space-between" align="center">
-				<NextLink href="https://google.com" passHref legacyBehavior>
+				<NextLink href="https://www.pinksale.finance/solana/launchpad/4W2WtwmtMccdkwCkiGwKyPvyTziPPojYkJEak2bkYZdL" passHref legacyBehavior>
 					<Button as="a" variant="cta">
 						PRE-SALE
 					</Button>	
 				</NextLink>
-				<NextLink href="https://google.com" passHref legacyBehavior>
+				<NextLink href="https://t.me/TheStickmanCoin" passHref legacyBehavior>
 			        <Button as="b" variant="cta">
 						TELEGRAM
 					</Button>
@@ -75,56 +75,54 @@ interface FeatureItemProps {
 const FEATURES_DESCRIPTIONS: Array<FeatureItemProps> = [
 	{
 		icon: HiOutlineSwitchHorizontal,
-		title: 'Compare releases easily',
+		title: 'STICKMAN IS FAMOUS',
 		children: (
 			<Box>
-				Sifting through changelogs on GitHub taking too much time?
+				Everyone knows Stickman. The father of all memes.
 				<br />
-				Let Octochangelog put the list of changes in a single view!
+				It's just a matter of time before it goes viral.
 			</Box>
 		),
 	},
 	{
 		icon: HiOutlineShare,
-		title: 'Share changelogs',
+		title: 'EXPERIENCED TEAM',
 		children: (
 			<Box>
-				Want to let your team review the changes in a dependency?
+				We have a serious team behind.
 				<br />
-				Give them a link!
+				Marketing is ready for the launch.
 			</Box>
 		),
 	},
 	{
 		icon: HiOutlineFire,
-		title: "Don't miss breaking changes",
+		title: "TO THE MOON",
 		children: (
 			<Box>
-				Octochangelog finds all breaking changes, and lists them at the top.
+				$STICKMAN is a newcomer, but it's here to stay and climb the ladder of crypto charts.
 				<br />
-				You can’t miss those pesky gotcha’s now!
+				Our goal is to reach the top positions of meme coins.
 			</Box>
 		),
 	},
 	{
 		icon: HiOutlineFilter,
-		title: 'No manual sorting',
+		title: 'CERTIFIED SECURITY',
 		children: (
 			<Box>
-				Want a list of major, minor and patch level changes?
-				<br />
-				Octochangelog groups changes into categories for you!
+				$STICKMAN coin was audited and it's safe from any kind of hack/exploit.
 			</Box>
 		),
 	},
 	{
 		icon: HiOutlineTag,
-		title: 'Changes per version',
+		title: 'JUST FOR FUN',
 		children: (
 			<Box>
-				Want to know which version introduced a certain change?
+				We created this project for fun.
 				<br />
-				Octochangelog labels each change with the version number.
+				It's just for entertaining purposes, for the meme.
 			</Box>
 		),
 	},
