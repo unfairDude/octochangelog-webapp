@@ -115,17 +115,6 @@ const FEATURES_DESCRIPTIONS: Array<FeatureItemProps> = [
 			</Box>
 		),
 	},
-	{
-		icon: HiOutlineTag,
-		title: 'JUST FOR FUN',
-		children: (
-			<Box>
-				We created this project for fun.
-				<br />
-				It's just for entertaining purposes, for the meme.
-			</Box>
-		),
-	},
 ]
 
 const FeatureItem = ({ icon, title, children }: FeatureItemProps) => {
