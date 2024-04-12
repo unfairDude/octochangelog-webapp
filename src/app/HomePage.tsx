@@ -22,7 +22,6 @@ import {
 	HiOutlineFire,
 	HiOutlineShare,
 	HiOutlineSwitchHorizontal,
-	HiOutlineTag,
 } from 'react-icons/hi'
 
 import { BRIEF_DESCRIPTION } from '@/common'
