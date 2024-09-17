@@ -22,7 +22,7 @@ const Footer = () => {
 						fontWeight="black"
 						textAlign="center"
 					>
-						Created with love <br /> by Stickman
+						Created with love <br /> by Steve Team
 					</Text>
 				</VStack>
 			</Container>

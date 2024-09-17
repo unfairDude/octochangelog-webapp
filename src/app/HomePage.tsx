@@ -47,12 +47,12 @@ const MainSection = () => (
 				{BRIEF_DESCRIPTION}.
 			</Heading>
 			<Flex justify="space-between" align="center">
-				<NextLink href="https://www.pinksale.finance/solana/launchpad/4W2WtwmtMccdkwCkiGwKyPvyTziPPojYkJEak2bkYZdL" passHref legacyBehavior>
+				<NextLink href="coming soon" passHref legacyBehavior>
 					<Button as="a" variant="cta">
-						PRE-SALE
+						BUY NOW
 					</Button>	
 				</NextLink>
-				<NextLink href="https://t.me/TheStickmanCoin" passHref legacyBehavior>
+				<NextLink href="https://t.me/SteveCoinNews" passHref legacyBehavior>
 			        <Button as="b" variant="cta">
 						TELEGRAM
 					</Button>
@@ -74,10 +74,10 @@ interface FeatureItemProps {
 const FEATURES_DESCRIPTIONS: Array<FeatureItemProps> = [
 	{
 		icon: HiOutlineSwitchHorizontal,
-		title: 'STICKMAN IS FAMOUS',
+		title: 'STEVE IS FAMOUS',
 		children: (
 			<Box>
-				Everyone knows Stickman. The father of all memes.
+				Everyone knows STEVE. 
 				<br />
 				It's just a matter of time before it goes viral.
 			</Box>
@@ -88,7 +88,7 @@ const FEATURES_DESCRIPTIONS: Array<FeatureItemProps> = [
 		title: 'EXPERIENCED TEAM',
 		children: (
 			<Box>
-				We have a serious team behind.
+				We have a solid team behind.
 				<br />
 				Marketing is ready for the launch.
 			</Box>
@@ -99,7 +99,7 @@ const FEATURES_DESCRIPTIONS: Array<FeatureItemProps> = [
 		title: "TO THE MOON",
 		children: (
 			<Box>
-				$STICKMAN is a newcomer, but it's here to stay and climb the ladder of crypto charts.
+				$STEVE is a newcomer, but it's here to stay and climb the ladder of crypto charts.
 				<br />
 				Our goal is to reach the top positions of meme coins.
 			</Box>
@@ -107,10 +107,12 @@ const FEATURES_DESCRIPTIONS: Array<FeatureItemProps> = [
 	},
 	{
 		icon: HiOutlineFilter,
-		title: 'CERTIFIED SECURITY',
+		title: 'TOKENOMICS',
 		children: (
 			<Box>
-				$STICKMAN coin was audited and it's safe from any kind of hack/exploit.
+				$STEVE team will only keep 5% of the total supply, dedicated to marketing, airdrops and animators.
+				<br />
+				The remaining supply will be locked into liquidity for 1 year. Every 1M MarketCap we will re-lock the tokens for another year.
 			</Box>
 		),
 	},

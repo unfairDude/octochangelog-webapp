@@ -61,7 +61,7 @@ const Header = (props: BoxProps) => {
 									fontWeight="black"
 									fontSize={{ base: '16px', md: '36px' }}
 								>
-									$STICKMAN
+									$STEVE
 								</Heading>
 							</HStack>
 						</RouteLink>
