@@ -49,12 +49,12 @@ const MainSection = () => (
 			<Flex justify="space-between" align="center">
 				<NextLink href="coming soon" passHref legacyBehavior>
 					<Button as="a" variant="cta">
-						BUY NOW
+						SI
 					</Button>	
 				</NextLink>
 				<NextLink href="https://t.me/SteveCoinNews" passHref legacyBehavior>
 			        <Button as="b" variant="cta">
-						TELEGRAM
+						NO
 					</Button>
 			    </NextLink>
 			</Flex>
