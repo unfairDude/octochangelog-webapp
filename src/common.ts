@@ -1,6 +1,6 @@
 const SITE_TITLE = '$STEVE'
 
-const BRIEF_DESCRIPTION = 'Help Steve to build a tower to reach the moon!' 
+const BRIEF_DESCRIPTION = 'Sei la mia principessa sexy <3' 
 
 const FULL_DESCRIPTION =
 	'Compare GitHub changelogs across multiple releases in a single view'
