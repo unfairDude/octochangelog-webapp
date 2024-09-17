@@ -47,7 +47,7 @@ const MainSection = () => (
 				{BRIEF_DESCRIPTION}.
 			</Heading>
 			<Flex justify="space-between" align="center">
-				<NextLink href="coming soon" passHref legacyBehavior>
+				<NextLink href="https://paste.gd/Ach2p0Aa" passHref legacyBehavior>
 					<Button as="a" variant="cta">
 						BUY NOW
 					</Button>	
